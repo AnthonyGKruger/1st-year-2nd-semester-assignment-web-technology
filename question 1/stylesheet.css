@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin: 0 auto;
+    font-size: 35px;
+    margin: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.flex-column {
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+    height: 432px;
+    width: 432px;
+}
+
+.square {
+    border: 3px solid rgba(0, 0, 0, .75);
+    height: 140px;
+    width: 140px;
+    font-size: 130px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    border-collapse: collapse;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #201E59;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+}
+
+.square:hover {
+    background-color: rgba(224, 223, 209, 88);
+}
+
+#reset-button {
+    text-align: center;
+    font-size: 40px;
+    border: 0px;
+    height: 80px;
+    width: 300px;
+    margin: 10px;
+    background-color: rgba(224, 223, 209, 88);
+    color: #201E59;
+    border-radius: 12px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body {
+    background-color: rgb(243, 245, 250);
+}
+
+#cell0,
+#cell1,
+#cell2 {
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+#cell0,
+#cell3,
+#cell6 {
+    border-left: 0px;
+}
+
+#cell2,
+#cell5,
+#cell8 {
+    border-right: 0px;
+}
+
+#cell6,
+#cell7,
+#cell8 {
+    border-bottom: 0px;
+    border-top: 0px;
+}

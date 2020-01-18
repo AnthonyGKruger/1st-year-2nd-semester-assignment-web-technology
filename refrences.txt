@@ -1,0 +1,20 @@
+ https://www.youtube.com/watch?v=P2TcQ3h0ipQ
+
+https://www.w3schools.com/jsref/met_win_prompt.asp
+
+https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+
+https://www.youtube.com/watch?v=yaPUl31nypk
+
+https://www.youtube.com/watch?v=GTWrWM1UsnA
+
+https://1bestcsharp.blogspot.com/2017/11/javascript-tic-tac-toe-game.html
+
+https://www.tutorialspoint.com/javascript/javascript_dialog_boxes.html
+
+https://www.w3schools.com/jsref/jsref_foreach.asp
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
+
+
